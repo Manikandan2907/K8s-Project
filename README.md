@@ -83,25 +83,6 @@ http://<EC2 IP>:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kuber
 
 ---
 
-## 🗂️ Folder Structure
 
 ```
-K8s-Project/
-│
-├── shopfront/
-│   ├── Dockerfile
-│   └── pom.xml
-├── productcatalogue/
-│   ├── Dockerfile
-│   └── pom.xml
-├── stockmanager/
-│   ├── Dockerfile
-│   └── pom.xml
-├── services/
-│   ├── shopfront-service.yml
-│   ├── productcatalogue-service.yml
-│   └── stockmanager-service.yml
-└── README.md
-```
 
----
